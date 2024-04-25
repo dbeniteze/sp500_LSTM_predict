@@ -41,7 +41,6 @@ R2: 0.9909222432243882
 <img src="https://github.com/dbeniteze/sp500_LSTM_predict/blob/main/images/sp500_close_vs_predict.png" width="420">
 
 
-
 ### References:
 
 <a href="https://finance.yahoo.com/quote/%5EGSPC/" target="_blank"> S&P 500 - Yahoo Finance </a>
